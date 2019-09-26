@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518133103016",
+    "firebase_url": "https://uasirvanpebrianpwpb.firebaseio.com",
+    "project_id": "uasirvanpebrianpwpb",
+    "storage_bucket": "uasirvanpebrianpwpb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518133103016:android:6444f264a2b34b63e4859d",
+        "android_client_info": {
+          "package_name": "com.example.a14_uas_irvanpebrian_pwpb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518133103016-6k1qpv9k110uraa0n77lkf19stdpfha4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a14_uas_irvanpebrian_pwpb",
+            "certificate_hash": "d2f7685811500ce595652ff8f841a07b54e9966e"
+          }
+        },
+        {
+          "client_id": "518133103016-n8lc1e5ipklrgqf2mmu4jgavo2hr0ggo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fMMaTEOAPyB-A6HXrLcBGEs3YqipOVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518133103016-n8lc1e5ipklrgqf2mmu4jgavo2hr0ggo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
